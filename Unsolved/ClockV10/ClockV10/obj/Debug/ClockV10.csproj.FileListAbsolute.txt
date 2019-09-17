@@ -1,0 +1,7 @@
+C:\Users\Jonas\Desktop\CSharp\Unsolved-csharp-projects-master\Unsolved-csharp-projects-master\Unsolved\ClockV10\ClockV10\bin\Debug\ClockV10.exe.config
+C:\Users\Jonas\Desktop\CSharp\Unsolved-csharp-projects-master\Unsolved-csharp-projects-master\Unsolved\ClockV10\ClockV10\bin\Debug\ClockV10.exe
+C:\Users\Jonas\Desktop\CSharp\Unsolved-csharp-projects-master\Unsolved-csharp-projects-master\Unsolved\ClockV10\ClockV10\bin\Debug\ClockV10.pdb
+C:\Users\Jonas\Desktop\CSharp\Unsolved-csharp-projects-master\Unsolved-csharp-projects-master\Unsolved\ClockV10\ClockV10\obj\Debug\ClockV10.csprojAssemblyReference.cache
+C:\Users\Jonas\Desktop\CSharp\Unsolved-csharp-projects-master\Unsolved-csharp-projects-master\Unsolved\ClockV10\ClockV10\obj\Debug\ClockV10.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Desktop\CSharp\Unsolved-csharp-projects-master\Unsolved-csharp-projects-master\Unsolved\ClockV10\ClockV10\obj\Debug\ClockV10.exe
+C:\Users\Jonas\Desktop\CSharp\Unsolved-csharp-projects-master\Unsolved-csharp-projects-master\Unsolved\ClockV10\ClockV10\obj\Debug\ClockV10.pdb

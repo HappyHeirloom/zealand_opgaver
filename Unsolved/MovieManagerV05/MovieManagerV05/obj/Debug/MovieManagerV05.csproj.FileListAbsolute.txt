@@ -1,0 +1,7 @@
+C:\Users\Jonas\Desktop\CSharp\Unsolved-csharp-projects-master\Unsolved-csharp-projects-master\Unsolved\MovieManagerV05\MovieManagerV05\bin\Debug\MovieManagerV05.exe.config
+C:\Users\Jonas\Desktop\CSharp\Unsolved-csharp-projects-master\Unsolved-csharp-projects-master\Unsolved\MovieManagerV05\MovieManagerV05\bin\Debug\MovieManagerV05.exe
+C:\Users\Jonas\Desktop\CSharp\Unsolved-csharp-projects-master\Unsolved-csharp-projects-master\Unsolved\MovieManagerV05\MovieManagerV05\bin\Debug\MovieManagerV05.pdb
+C:\Users\Jonas\Desktop\CSharp\Unsolved-csharp-projects-master\Unsolved-csharp-projects-master\Unsolved\MovieManagerV05\MovieManagerV05\obj\Debug\MovieManagerV05.csprojAssemblyReference.cache
+C:\Users\Jonas\Desktop\CSharp\Unsolved-csharp-projects-master\Unsolved-csharp-projects-master\Unsolved\MovieManagerV05\MovieManagerV05\obj\Debug\MovieManagerV05.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Desktop\CSharp\Unsolved-csharp-projects-master\Unsolved-csharp-projects-master\Unsolved\MovieManagerV05\MovieManagerV05\obj\Debug\MovieManagerV05.exe
+C:\Users\Jonas\Desktop\CSharp\Unsolved-csharp-projects-master\Unsolved-csharp-projects-master\Unsolved\MovieManagerV05\MovieManagerV05\obj\Debug\MovieManagerV05.pdb

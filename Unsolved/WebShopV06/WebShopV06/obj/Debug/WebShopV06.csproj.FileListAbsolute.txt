@@ -1,0 +1,7 @@
+C:\Users\Jonas\Desktop\CSharp\Unsolved-csharp-projects-master\Unsolved-csharp-projects-master\Unsolved\WebShopV06\WebShopV06\bin\Debug\WebShopV06.exe.config
+C:\Users\Jonas\Desktop\CSharp\Unsolved-csharp-projects-master\Unsolved-csharp-projects-master\Unsolved\WebShopV06\WebShopV06\bin\Debug\WebShopV06.exe
+C:\Users\Jonas\Desktop\CSharp\Unsolved-csharp-projects-master\Unsolved-csharp-projects-master\Unsolved\WebShopV06\WebShopV06\bin\Debug\WebShopV06.pdb
+C:\Users\Jonas\Desktop\CSharp\Unsolved-csharp-projects-master\Unsolved-csharp-projects-master\Unsolved\WebShopV06\WebShopV06\obj\Debug\WebShopV06.csprojAssemblyReference.cache
+C:\Users\Jonas\Desktop\CSharp\Unsolved-csharp-projects-master\Unsolved-csharp-projects-master\Unsolved\WebShopV06\WebShopV06\obj\Debug\WebShopV06.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Desktop\CSharp\Unsolved-csharp-projects-master\Unsolved-csharp-projects-master\Unsolved\WebShopV06\WebShopV06\obj\Debug\WebShopV06.exe
+C:\Users\Jonas\Desktop\CSharp\Unsolved-csharp-projects-master\Unsolved-csharp-projects-master\Unsolved\WebShopV06\WebShopV06\obj\Debug\WebShopV06.pdb

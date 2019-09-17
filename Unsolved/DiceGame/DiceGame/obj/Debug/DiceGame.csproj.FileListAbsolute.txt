@@ -1,0 +1,7 @@
+C:\Users\Jonas\Desktop\CSharp\Unsolved-csharp-projects-master\Unsolved-csharp-projects-master\Unsolved\DiceGame\DiceGame\bin\Debug\DiceGame.exe.config
+C:\Users\Jonas\Desktop\CSharp\Unsolved-csharp-projects-master\Unsolved-csharp-projects-master\Unsolved\DiceGame\DiceGame\bin\Debug\DiceGame.exe
+C:\Users\Jonas\Desktop\CSharp\Unsolved-csharp-projects-master\Unsolved-csharp-projects-master\Unsolved\DiceGame\DiceGame\bin\Debug\DiceGame.pdb
+C:\Users\Jonas\Desktop\CSharp\Unsolved-csharp-projects-master\Unsolved-csharp-projects-master\Unsolved\DiceGame\DiceGame\obj\Debug\DiceGame.csprojAssemblyReference.cache
+C:\Users\Jonas\Desktop\CSharp\Unsolved-csharp-projects-master\Unsolved-csharp-projects-master\Unsolved\DiceGame\DiceGame\obj\Debug\DiceGame.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Desktop\CSharp\Unsolved-csharp-projects-master\Unsolved-csharp-projects-master\Unsolved\DiceGame\DiceGame\obj\Debug\DiceGame.exe
+C:\Users\Jonas\Desktop\CSharp\Unsolved-csharp-projects-master\Unsolved-csharp-projects-master\Unsolved\DiceGame\DiceGame\obj\Debug\DiceGame.pdb

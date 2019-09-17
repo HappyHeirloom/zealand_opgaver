@@ -1,0 +1,7 @@
+C:\Users\Jonas\Desktop\CSharp\Unsolved-csharp-projects-master\Unsolved-csharp-projects-master\Unsolved\RolePlayV12\RolePlayV12\bin\Debug\RolePlayV12.exe.config
+C:\Users\Jonas\Desktop\CSharp\Unsolved-csharp-projects-master\Unsolved-csharp-projects-master\Unsolved\RolePlayV12\RolePlayV12\bin\Debug\RolePlayV12.exe
+C:\Users\Jonas\Desktop\CSharp\Unsolved-csharp-projects-master\Unsolved-csharp-projects-master\Unsolved\RolePlayV12\RolePlayV12\bin\Debug\RolePlayV12.pdb
+C:\Users\Jonas\Desktop\CSharp\Unsolved-csharp-projects-master\Unsolved-csharp-projects-master\Unsolved\RolePlayV12\RolePlayV12\obj\Debug\RolePlayV12.csprojAssemblyReference.cache
+C:\Users\Jonas\Desktop\CSharp\Unsolved-csharp-projects-master\Unsolved-csharp-projects-master\Unsolved\RolePlayV12\RolePlayV12\obj\Debug\RolePlayV12.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Desktop\CSharp\Unsolved-csharp-projects-master\Unsolved-csharp-projects-master\Unsolved\RolePlayV12\RolePlayV12\obj\Debug\RolePlayV12.exe
+C:\Users\Jonas\Desktop\CSharp\Unsolved-csharp-projects-master\Unsolved-csharp-projects-master\Unsolved\RolePlayV12\RolePlayV12\obj\Debug\RolePlayV12.pdb
