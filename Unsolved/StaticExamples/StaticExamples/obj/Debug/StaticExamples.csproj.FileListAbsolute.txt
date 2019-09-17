@@ -1,0 +1,7 @@
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\StaticExamples\StaticExamples\bin\Debug\StaticExamples.exe.config
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\StaticExamples\StaticExamples\bin\Debug\StaticExamples.exe
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\StaticExamples\StaticExamples\bin\Debug\StaticExamples.pdb
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\StaticExamples\StaticExamples\obj\Debug\StaticExamples.csprojAssemblyReference.cache
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\StaticExamples\StaticExamples\obj\Debug\StaticExamples.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\StaticExamples\StaticExamples\obj\Debug\StaticExamples.exe
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\StaticExamples\StaticExamples\obj\Debug\StaticExamples.pdb
