@@ -10,9 +10,9 @@ namespace StaticExamples
         #region Instance fields
         private static string _licensePlate;
         private static int _price;
-        private static int _cars = 0;
-        private static int _numberplates = 0;
-        private static int _prices = 0;
+        public static int carsCalls;
+        public static int numberPlatesCalls;
+        public static int pricesCalls;
         #endregion
 
         #region Constructor
@@ -20,28 +20,26 @@ namespace StaticExamples
         {
             _licensePlate = licensePlate;
             _price = price;
-            _cars++;
-            _numberplates++;
-            _prices++;
+            ++carsCalls;
         }
         #endregion
 
         #region Properties
-        public static string LicensePlate
+        public string LicensePlate
         {
-            get { return _licensePlate; }
+            get { ++numberPlatesCalls; return _licensePlate; }
             set { _licensePlate = value; }
         }
 
-        public static int Price
+        public int Price
         {
-            get { return _price; }
+            get { ++pricesCalls; return _price; }
             set { _price = value; }
         }
         #endregion
         public static void PrintUsageStatistics()
         {
-            Console.WriteLine($"Number of cars created: {_cars}  Number of numberplates created: {_numberplates} and number of prices created: {_prices}");
+            Console.WriteLine($"Number of cars created: {Car.carsCalls}  Number of numberplates created: {Car.numberPlatesCalls} and number of prices created: {Car.pricesCalls}");
         }
     }
 }
