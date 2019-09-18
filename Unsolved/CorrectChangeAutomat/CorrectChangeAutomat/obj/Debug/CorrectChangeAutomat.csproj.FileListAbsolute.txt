@@ -1,0 +1,7 @@
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\CorrectChangeAutomat\CorrectChangeAutomat\bin\Debug\CorrectChangeAutomat.exe.config
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\CorrectChangeAutomat\CorrectChangeAutomat\bin\Debug\CorrectChangeAutomat.exe
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\CorrectChangeAutomat\CorrectChangeAutomat\bin\Debug\CorrectChangeAutomat.pdb
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\CorrectChangeAutomat\CorrectChangeAutomat\obj\Debug\CorrectChangeAutomat.csprojAssemblyReference.cache
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\CorrectChangeAutomat\CorrectChangeAutomat\obj\Debug\CorrectChangeAutomat.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\CorrectChangeAutomat\CorrectChangeAutomat\obj\Debug\CorrectChangeAutomat.exe
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\CorrectChangeAutomat\CorrectChangeAutomat\obj\Debug\CorrectChangeAutomat.pdb
