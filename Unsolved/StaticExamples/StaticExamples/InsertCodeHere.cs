@@ -9,6 +9,13 @@ namespace StaticExamples
         {
             // The FIRST line of code should be BELOW this line
 
+            Car car1 = new Car("CK 12 989", 20000);
+            Car car2 = new Car("CK 12 989", 50000);
+
+            Car.PrintUsageStatistics();
+
+            Console.WriteLine();
+
             #region ListMethods test
             List<int> aList = new List<int> { 23, 86, 51, 11, 39 };
             ListMethods listMethodsObject = new ListMethods();
