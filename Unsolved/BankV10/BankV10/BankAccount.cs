@@ -23,12 +23,39 @@
         #region Methods
         public void Deposit(double amount)
         {
-            _balance = _balance + amount;
+            if(amount >= 0)
+            {
+                _balance = _balance + amount;
+            } else
+            {
+                System.Console.WriteLine("Cant use negative numbers");
+            }
         }
 
         public void Withdraw(double amount)
         {
-            _balance = _balance - amount;
+            try
+            {
+                if (amount >= 0)
+                {
+                    if (_balance >= amount)
+                    {
+                        _balance = _balance - amount;
+                    }
+                    else
+                    {
+                        System.Console.WriteLine("Not enough money");
+                    }
+                }
+                else
+                {
+                    System.Console.WriteLine("Cant use negative numbers");
+                }
+            }
+            catch
+            {
+                System.Console.WriteLine("ERROR");
+            }
         } 
         #endregion
     }

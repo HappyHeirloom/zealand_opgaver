@@ -1,0 +1,7 @@
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\BankV10\BankV10\bin\Debug\BankV10.exe.config
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\BankV10\BankV10\bin\Debug\BankV10.exe
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\BankV10\BankV10\bin\Debug\BankV10.pdb
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\BankV10\BankV10\obj\Debug\BankV10.csprojAssemblyReference.cache
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\BankV10\BankV10\obj\Debug\BankV10.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\BankV10\BankV10\obj\Debug\BankV10.exe
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\BankV10\BankV10\obj\Debug\BankV10.pdb

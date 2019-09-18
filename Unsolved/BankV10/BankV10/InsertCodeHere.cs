@@ -14,6 +14,12 @@ namespace BankV10
             account.Deposit(1000);
             Console.WriteLine($"Balance is {account.Balance}");
 
+            account.Withdraw(1001);
+            Console.WriteLine($"Balance is {account.Balance}");
+
+            account.Withdraw(-1001);
+            Console.WriteLine($"Balance is {account.Balance}");
+
             // The LAST line of code should be ABOVE this line
         }
     }
