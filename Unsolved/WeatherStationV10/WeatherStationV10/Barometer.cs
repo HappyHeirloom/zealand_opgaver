@@ -10,9 +10,10 @@
         #endregion
 
         #region Constructor
-        public Barometer()
+        public Barometer(int pressure)
         {
-            _pressureInHPa = 1000.0;
+            _pressureInHPa = pressure;
+            System.Console.WriteLine(WeatherDescription);
         }
         #endregion
 
@@ -25,7 +26,33 @@
 
         public string WeatherDescription
         {
-            get { return "All weather is nice!"; }
+            get
+            {
+                if (Pressure < 980)
+                {
+                    return "stormy";
+                }
+                else if (Pressure > 980 || Pressure < 1000)
+                {
+                    return "Rainy";
+                }
+                else if (Pressure > 1000 || Pressure < 1020)
+                {
+                    return "Changing";
+                }
+                else if (Pressure > 1020 || Pressure < 1040)
+                {
+                    return "Fair";
+                }
+                else if (Pressure > 1040)
+                {
+                    return "Very dry";
+                }
+                else
+                {
+                    return "Error: Out of scale";
+                }
+            }
         }
         #endregion
     }

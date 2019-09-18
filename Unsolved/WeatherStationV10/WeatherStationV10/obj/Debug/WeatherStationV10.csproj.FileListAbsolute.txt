@@ -1,0 +1,7 @@
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\WeatherStationV10\WeatherStationV10\bin\Debug\WeatherStationV10.exe.config
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\WeatherStationV10\WeatherStationV10\bin\Debug\WeatherStationV10.exe
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\WeatherStationV10\WeatherStationV10\bin\Debug\WeatherStationV10.pdb
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\WeatherStationV10\WeatherStationV10\obj\Debug\WeatherStationV10.csprojAssemblyReference.cache
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\WeatherStationV10\WeatherStationV10\obj\Debug\WeatherStationV10.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\WeatherStationV10\WeatherStationV10\obj\Debug\WeatherStationV10.exe
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\WeatherStationV10\WeatherStationV10\obj\Debug\WeatherStationV10.pdb
