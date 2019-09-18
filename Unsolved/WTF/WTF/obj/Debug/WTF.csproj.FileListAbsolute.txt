@@ -1,0 +1,7 @@
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\WTF\WTF\bin\Debug\WTF.exe.config
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\WTF\WTF\bin\Debug\WTF.exe
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\WTF\WTF\bin\Debug\WTF.pdb
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\WTF\WTF\obj\Debug\WTF.csprojAssemblyReference.cache
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\WTF\WTF\obj\Debug\WTF.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\WTF\WTF\obj\Debug\WTF.exe
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\WTF\WTF\obj\Debug\WTF.pdb

@@ -1,11 +1,13 @@
-﻿namespace WTF
+﻿using System;
+
+namespace WTF
 {
     public class MysticNumbers
     {
         #region Methods
-        public int ThreeNumbers(int a, int b, int c)
+        public static int ThreeNumbers(int a, int b, int c)
         {
-            int result;
+            int result = 0;
 
             if (b > a)
             {
@@ -24,8 +26,29 @@
                 }
             }
 
+            Console.WriteLine(result);
             return result;
-        } 
+        }
+
+        public static int TwoNumbers(int a, int b)
+        {
+            int result = 0;
+
+            if (b > a)
+            {
+                result = b;
+            } else
+            {
+                if (a > b)
+                {
+                    result = b;
+                }
+            }
+
+            Console.WriteLine(result);
+            return result;
+        }
+
         #endregion
     }
 }
