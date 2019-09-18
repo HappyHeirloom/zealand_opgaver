@@ -1,0 +1,7 @@
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\WhileLoopsBaseCamp\WhileLoopsBaseCamp\bin\Debug\WhileLoopsBaseCamp.exe.config
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\WhileLoopsBaseCamp\WhileLoopsBaseCamp\bin\Debug\WhileLoopsBaseCamp.exe
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\WhileLoopsBaseCamp\WhileLoopsBaseCamp\bin\Debug\WhileLoopsBaseCamp.pdb
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\WhileLoopsBaseCamp\WhileLoopsBaseCamp\obj\Debug\WhileLoopsBaseCamp.csprojAssemblyReference.cache
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\WhileLoopsBaseCamp\WhileLoopsBaseCamp\obj\Debug\WhileLoopsBaseCamp.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\WhileLoopsBaseCamp\WhileLoopsBaseCamp\obj\Debug\WhileLoopsBaseCamp.exe
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\WhileLoopsBaseCamp\WhileLoopsBaseCamp\obj\Debug\WhileLoopsBaseCamp.pdb
