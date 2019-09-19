@@ -52,13 +52,15 @@ namespace RolePlayV12
             get { return _hitPoints <= 0; }
         }
 
-        public void changeWeapon()
-        {
-                _weaponMainHand = _gmSword;
-        }
+
         #endregion
 
         #region Methods
+
+        public void changeWeapon()
+        {
+            _weaponMainHand = _gmSword;
+        }
         public void ReceiveDamage(int points)
         {
             _hitPoints = _hitPoints - points;
