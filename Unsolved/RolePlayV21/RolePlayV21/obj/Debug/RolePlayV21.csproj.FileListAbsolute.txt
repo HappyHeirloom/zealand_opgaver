@@ -1,0 +1,7 @@
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\RolePlayV21\RolePlayV21\bin\Debug\RolePlayV21.exe.config
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\RolePlayV21\RolePlayV21\bin\Debug\RolePlayV21.exe
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\RolePlayV21\RolePlayV21\bin\Debug\RolePlayV21.pdb
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\RolePlayV21\RolePlayV21\obj\Debug\RolePlayV21.csprojAssemblyReference.cache
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\RolePlayV21\RolePlayV21\obj\Debug\RolePlayV21.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\RolePlayV21\RolePlayV21\obj\Debug\RolePlayV21.exe
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\RolePlayV21\RolePlayV21\obj\Debug\RolePlayV21.pdb
