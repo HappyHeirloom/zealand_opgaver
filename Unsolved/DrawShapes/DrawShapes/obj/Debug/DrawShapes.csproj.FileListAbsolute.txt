@@ -1,0 +1,7 @@
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\DrawShapes\DrawShapes\bin\Debug\DrawShapes.exe.config
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\DrawShapes\DrawShapes\bin\Debug\DrawShapes.exe
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\DrawShapes\DrawShapes\bin\Debug\DrawShapes.pdb
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\DrawShapes\DrawShapes\obj\Debug\DrawShapes.csprojAssemblyReference.cache
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\DrawShapes\DrawShapes\obj\Debug\DrawShapes.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\DrawShapes\DrawShapes\obj\Debug\DrawShapes.exe
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\DrawShapes\DrawShapes\obj\Debug\DrawShapes.pdb
