@@ -16,6 +16,14 @@ namespace RolePlayV20
 
             // Now battle...How do we do that (Hint: You need a loop)
 
+            while (theHero.Dead != true || theBeast.Dead != true)
+            {
+                int heroDamage = theHero.DealDamage();
+                int beastDamage = theBeast.DealDamage();
+                theHero.ReceiveDamage(beastDamage);
+                theBeast.ReceiveDamage(heroDamage);
+            }
+
             theLog.PrintLog();
 
             // The LAST line of code should be ABOVE this line
