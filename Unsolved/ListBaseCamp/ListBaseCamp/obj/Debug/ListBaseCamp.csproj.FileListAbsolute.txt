@@ -1,0 +1,7 @@
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\ListBaseCamp\ListBaseCamp\bin\Debug\ListBaseCamp.exe.config
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\ListBaseCamp\ListBaseCamp\bin\Debug\ListBaseCamp.exe
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\ListBaseCamp\ListBaseCamp\bin\Debug\ListBaseCamp.pdb
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\ListBaseCamp\ListBaseCamp\obj\Debug\ListBaseCamp.csprojAssemblyReference.cache
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\ListBaseCamp\ListBaseCamp\obj\Debug\ListBaseCamp.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\ListBaseCamp\ListBaseCamp\obj\Debug\ListBaseCamp.exe
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\ListBaseCamp\ListBaseCamp\obj\Debug\ListBaseCamp.pdb
