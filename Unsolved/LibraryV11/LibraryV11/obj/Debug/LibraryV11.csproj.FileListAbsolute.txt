@@ -1,0 +1,7 @@
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\LibraryV11\LibraryV11\bin\Debug\LibraryV11.exe.config
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\LibraryV11\LibraryV11\bin\Debug\LibraryV11.exe
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\LibraryV11\LibraryV11\bin\Debug\LibraryV11.pdb
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\LibraryV11\LibraryV11\obj\Debug\LibraryV11.csprojAssemblyReference.cache
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\LibraryV11\LibraryV11\obj\Debug\LibraryV11.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\LibraryV11\LibraryV11\obj\Debug\LibraryV11.exe
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\LibraryV11\LibraryV11\obj\Debug\LibraryV11.pdb

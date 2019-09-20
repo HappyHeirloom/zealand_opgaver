@@ -33,7 +33,7 @@ namespace LibraryV11
         /// </summary>
         public void AddBook(Book aBook)
         {
-            // TODO
+            _books.Add(aBook.ISBN, aBook);
         }
 
         /// <summary>
@@ -43,8 +43,7 @@ namespace LibraryV11
         /// </summary>
         public Book LookupBook(string isbn)
         {
-            // TODO
-            return null;
+            return _books.ContainsKey(isbn) ? _books[isbn] : null;
         }
 
         /// <summary>
@@ -55,7 +54,7 @@ namespace LibraryV11
         /// </summary>
         public void DeleteBook(string isbn)
         {
-            // TODO
+            _books.Remove(isbn);
         }
         #endregion
     }
