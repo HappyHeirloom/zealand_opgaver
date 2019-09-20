@@ -35,7 +35,11 @@ namespace SchoolAdministrationV10
         /// </summary>
         public void AddStudent(Student aStudent)
         {
-            // TODO
+            if (!_students.ContainsKey(aStudent.ID))
+            {
+                _students.Add(aStudent.ID, aStudent);
+
+            }
         }
 
         /// <summary>
@@ -44,8 +48,7 @@ namespace SchoolAdministrationV10
         /// </summary>
         public Student GetStudent(int id)
         {
-            // TODO
-            return null;
+            return _students.ContainsKey(id) ? _students[id] : null;
         }
 
         /// <summary>
@@ -54,8 +57,7 @@ namespace SchoolAdministrationV10
         /// </summary>
         public int GetAverageForStudent(int id)
         {
-            // TODO
-            return -1;
+            return _students.ContainsKey(id) ? _students[id].ScoreAverage : -1;
         }
 
         /// <summary>
@@ -65,8 +67,19 @@ namespace SchoolAdministrationV10
         /// </summary>
         public int GetTotalAverage()
         {
-            // TODO
-            return 0;
+            int sumOfAverages = 0;
+            int studentCount = 0;
+
+            foreach (Student aStudent in _students.Values)
+            {
+                if(aStudent.ScoreAverage != -1)
+                {
+                    sumOfAverages = sumOfAverages + aStudent.ScoreAverage;
+                    studentCount++;
+                }
+            }
+
+            return studentCount > 0 ? sumOfAverages / studentCount : -1;
         } 
         #endregion
     }

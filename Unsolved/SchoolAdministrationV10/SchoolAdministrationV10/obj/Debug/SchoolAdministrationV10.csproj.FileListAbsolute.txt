@@ -1,0 +1,7 @@
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\SchoolAdministrationV10\SchoolAdministrationV10\bin\Debug\SchoolAdministrationV10.exe.config
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\SchoolAdministrationV10\SchoolAdministrationV10\bin\Debug\SchoolAdministrationV10.exe
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\SchoolAdministrationV10\SchoolAdministrationV10\bin\Debug\SchoolAdministrationV10.pdb
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\SchoolAdministrationV10\SchoolAdministrationV10\obj\Debug\SchoolAdministrationV10.csprojAssemblyReference.cache
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\SchoolAdministrationV10\SchoolAdministrationV10\obj\Debug\SchoolAdministrationV10.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\SchoolAdministrationV10\SchoolAdministrationV10\obj\Debug\SchoolAdministrationV10.exe
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\SchoolAdministrationV10\SchoolAdministrationV10\obj\Debug\SchoolAdministrationV10.pdb
