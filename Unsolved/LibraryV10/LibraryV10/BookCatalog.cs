@@ -33,7 +33,16 @@ namespace LibraryV10
         /// </summary>
         public void AddBook(Book aBook)
         {
-            // TODO
+            if(aBook.ISBN != aBook.ISBN)
+            {
+                _books.Add(aBook);
+
+            }
+            else
+            {
+                System.Console.WriteLine("Book already exists");
+            }
+
         }
 
         /// <summary>
@@ -43,7 +52,13 @@ namespace LibraryV10
         /// </summary>
         public Book LookupBook(string isbn)
         {
-            // TODO
+            foreach (var book in _books)
+            {
+                if(book.ISBN == isbn)
+                {
+                    return book;
+                }
+            }
 
             return null;
         }
@@ -56,7 +71,14 @@ namespace LibraryV10
         /// </summary>
         public void DeleteBook(string isbn)
         {
-            // TODO
+            for (int i = 0; i < _books.Count; i++)
+            {
+                if (_books[i].ISBN == isbn)
+                {
+                    _books.RemoveAt(i);
+                    return;
+                }
+            }
         }
         #endregion
     }
