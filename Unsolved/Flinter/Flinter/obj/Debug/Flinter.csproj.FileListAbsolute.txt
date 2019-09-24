@@ -1,0 +1,7 @@
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\Flinter\Flinter\bin\Debug\Flinter.exe.config
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\Flinter\Flinter\bin\Debug\Flinter.exe
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\Flinter\Flinter\bin\Debug\Flinter.pdb
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\Flinter\Flinter\obj\Debug\Flinter.csprojAssemblyReference.cache
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\Flinter\Flinter\obj\Debug\Flinter.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\Flinter\Flinter\obj\Debug\Flinter.exe
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\Flinter\Flinter\obj\Debug\Flinter.pdb

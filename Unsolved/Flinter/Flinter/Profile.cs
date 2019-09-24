@@ -6,19 +6,25 @@
     /// </summary>
     public class Profile
     {
+
+        public enum gender {Man, Woman}
+        public enum eC {Blue, Red, Green, Brown}
+        public enum hC {Black, Blue, Blond, Brown, Green, Red, Orange, Yellow }
+        public enum hCategory {VeryShort, Short, Medium, Tall, VeryTall }
+
         #region Instance fields
-        private bool _gender;
-        private string _eyeColor;
-        private string _hairColor;
-        private int _heightCategory;
+        private gender _gender;
+        private eC _eyeColor;
+        private hC _hairColor;
+        private hCategory _heightCategory;
         #endregion
 
         #region Constructor
-        public Profile(bool gender, string eyeColor, string hairColor, int heightCategory)
+        public Profile(gender gender, hC hairColor, eC eyeColor, hCategory heightCategory)
         {
             _gender = gender;
-            _eyeColor = eyeColor;
             _hairColor = hairColor;
+            _eyeColor = eyeColor;
             _heightCategory = heightCategory;
         }
         #endregion
@@ -28,36 +34,9 @@
         {
             get
             {
-                return $"You got a {GenderDescription} with {_eyeColor} eyes and {_hairColor} hair, who is {HeightDescription}";
+                return $"You got a {_gender} with {_eyeColor} eyes and {_hairColor} hair, who is {_heightCategory}";
             }
         }
-
-        public string GenderDescription
-        {
-            get { return _gender ? "man" : "woman"; }
-        }
-
-        public string HeightDescription
-        {
-            get
-            {
-                switch (_heightCategory)
-                {
-                    case 0:
-                        return "Very short";
-                    case 1:
-                        return "Short";
-                    case 2:
-                        return "Medium height";
-                    case 3:
-                        return "Tall";
-                    case 4:
-                        return "Very tall";
-                    default:
-                        return "Unknown height";
-                }
-            }
-        } 
         #endregion
     }
 }
