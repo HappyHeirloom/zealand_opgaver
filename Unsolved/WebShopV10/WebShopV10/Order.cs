@@ -1,4 +1,6 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace WebShopV10
 {
@@ -8,6 +10,17 @@ namespace WebShopV10
     /// </summary>
     public class Order
     {
+        #region Constants
+        private const double StateTaxHighLimitAmount = 40.0;
+        private const double StateTaxHighPercentage = 10.00;
+        private const double StateTaxLowPercentage = 8.00;
+        private const double ShippingHighCost = 9.00;
+        private const double ShippingLowCost = 5.00;
+        private const int ShippingHighCostLimitItems = 3;
+        private const double EUTaxPercentage = 2.00;
+        private const double EUTaxMinimumAmount = 1.00;
+        #endregion
+
         #region Instance fields
         private List<double> _itemPriceList;
         #endregion
@@ -22,61 +35,39 @@ namespace WebShopV10
         #region Properties
         public double TotalOrderPrice
         {
-            get { return CalculateTotalOrderPrice(); }
+            get
+            {
+                // State Tax
+                AddToEachItem(
+                    index => _itemPriceList[index] < StateTaxHighLimitAmount,
+                    index => _itemPriceList[index] * StateTaxHighPercentage / 100,
+                    index => _itemPriceList[index] * StateTaxLowPercentage / 100);
+
+                // Shipping
+                AddToEachItem(
+                    index => index < ShippingHighCostLimitItems,
+                    index => ShippingHighCost,
+                    index => ShippingLowCost);
+
+                // EU Tax
+                AddToEachItem(
+                    index => _itemPriceList[index] * (EUTaxPercentage / 100) > EUTaxMinimumAmount,
+                    index => _itemPriceList[index] * (EUTaxPercentage / 100),
+                    index => EUTaxMinimumAmount);
+
+                return _itemPriceList.Sum();
+            }
         }
         #endregion
 
         #region Methods
-        private double CalculateTotalOrderPrice() // TODO - Sarah, can you review this on Friday?
+        private void AddToEachItem(Func<int, bool> criterion, Func<int, double> calcOnTrue, Func<int, double> calcOnFalse)
         {
-            // Make a copy of the item price list
-            List<double> itemPriceListCopy = new List<double>();
             for (int index = 0; index < _itemPriceList.Count; index++)
             {
-                itemPriceListCopy.Add(_itemPriceList[index]);
+                _itemPriceList[index] += criterion(index) ? calcOnTrue(index) : calcOnFalse(index);
             }
-
-            // Add tax to the price
-            for (int index = 0; index < itemPriceListCopy.Count; index++)
-            {
-                if (itemPriceListCopy[index] < 40)
-                {
-                    itemPriceListCopy[index] = itemPriceListCopy[index] * 1.10; // 10 % State tax on cheap items
-                }
-                else
-                {
-                    itemPriceListCopy[index] = itemPriceListCopy[index] * 1.08; // 8 % State tax on expensive items
-                }
-            }
-
-            // first three items cost 9 kr. per item for shipping, rest cost 5 kr. per item
-            for (int index = 0; index < itemPriceListCopy.Count; index++) // Should this be a method? Anyone...??
-            {
-                if (index < 3)
-                {
-                    itemPriceListCopy[index] = itemPriceListCopy[index] + 9;
-                }
-                else
-                {
-                    itemPriceListCopy[index] = itemPriceListCopy[index] + 5; // Hey Jim, are you sure this is right!?
-                }
-            }
-
-            // Add 2 % EU tax (after state tax and shipping), however at most 1 kr. per item
-            for (int index = 0; index < itemPriceListCopy.Count; index++)
-            {
-                itemPriceListCopy[index] = itemPriceListCopy[index] + ((itemPriceListCopy[index] > 50) ? itemPriceListCopy[index] * 0.02 : 1);
-            }
-
-            // Now find the total cost of the items
-            double totalCost = 0.0;
-            for (int index = 0; index < itemPriceListCopy.Count; index++)
-            {
-                totalCost = totalCost + itemPriceListCopy[index];
-            }
-
-            return totalCost;
-        } 
+        }
         #endregion
     }
 }

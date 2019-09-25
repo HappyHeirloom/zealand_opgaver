@@ -1,0 +1,7 @@
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\CalculationSimulation\CalculationSimulation\bin\Debug\CalculationSimulation.exe.config
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\CalculationSimulation\CalculationSimulation\bin\Debug\CalculationSimulation.exe
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\CalculationSimulation\CalculationSimulation\bin\Debug\CalculationSimulation.pdb
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\CalculationSimulation\CalculationSimulation\obj\Debug\CalculationSimulation.csprojAssemblyReference.cache
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\CalculationSimulation\CalculationSimulation\obj\Debug\CalculationSimulation.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\CalculationSimulation\CalculationSimulation\obj\Debug\CalculationSimulation.exe
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\CalculationSimulation\CalculationSimulation\obj\Debug\CalculationSimulation.pdb

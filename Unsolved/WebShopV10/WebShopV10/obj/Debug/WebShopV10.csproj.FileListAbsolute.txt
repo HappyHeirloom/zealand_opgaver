@@ -1,0 +1,7 @@
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\WebShopV10\WebShopV10\bin\Debug\WebShopV10.exe.config
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\WebShopV10\WebShopV10\bin\Debug\WebShopV10.exe
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\WebShopV10\WebShopV10\bin\Debug\WebShopV10.pdb
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\WebShopV10\WebShopV10\obj\Debug\WebShopV10.csprojAssemblyReference.cache
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\WebShopV10\WebShopV10\obj\Debug\WebShopV10.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\WebShopV10\WebShopV10\obj\Debug\WebShopV10.exe
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\WebShopV10\WebShopV10\obj\Debug\WebShopV10.pdb
