@@ -1,0 +1,7 @@
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\RolePlayV23\RolePlayV23\bin\Debug\RolePlayV23.exe.config
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\RolePlayV23\RolePlayV23\bin\Debug\RolePlayV23.exe
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\RolePlayV23\RolePlayV23\bin\Debug\RolePlayV23.pdb
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\RolePlayV23\RolePlayV23\obj\Debug\RolePlayV23.csprojAssemblyReference.cache
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\RolePlayV23\RolePlayV23\obj\Debug\RolePlayV23.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\RolePlayV23\RolePlayV23\obj\Debug\RolePlayV23.exe
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\RolePlayV23\RolePlayV23\obj\Debug\RolePlayV23.pdb

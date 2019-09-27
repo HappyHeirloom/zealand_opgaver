@@ -1,11 +1,8 @@
 ﻿namespace EmployeesV10
 {
-    public class Teacher
+    public class Teacher : Employee
     {
         #region Instance fields
-        private string _name;
-        private int _hoursPerWeek;
-        private int _payGrade;
         #endregion
 
         #region Constructor
@@ -18,17 +15,6 @@
         #endregion
 
         #region Properties
-        public string Name
-        {
-            get { return _name; }
-            set { _name = value; }
-        }
-
-        public int HoursPerWeek
-        {
-            get { return _hoursPerWeek; }
-            set { _hoursPerWeek = value; }
-        }
 
         public int PayGrade
         {
@@ -42,7 +28,7 @@
             {
                 return $"Teacher {Name} works {HoursPerWeek} hours/week, at paygrade {PayGrade}";
             }
-        } 
+        }
         #endregion
     }
 }

@@ -23,7 +23,7 @@
             Reset();
         }
         #endregion
-
+        
         #region Properties
         public string Name
         {

@@ -1,0 +1,7 @@
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\EmployeesV10\EmployeesV10\obj\Debug\EmployeesV10.csprojAssemblyReference.cache
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\EmployeesV10\EmployeesV10\obj\Debug\EmployeesV10.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\EmployeesV10\EmployeesV10\bin\Debug\EmployeesV10.exe.config
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\EmployeesV10\EmployeesV10\bin\Debug\EmployeesV10.exe
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\EmployeesV10\EmployeesV10\bin\Debug\EmployeesV10.pdb
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\EmployeesV10\EmployeesV10\obj\Debug\EmployeesV10.exe
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\EmployeesV10\EmployeesV10\obj\Debug\EmployeesV10.pdb

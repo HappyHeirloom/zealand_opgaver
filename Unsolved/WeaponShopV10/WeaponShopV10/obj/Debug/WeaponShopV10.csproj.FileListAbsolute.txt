@@ -1,0 +1,7 @@
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\WeaponShopV10\WeaponShopV10\bin\Debug\WeaponShopV10.exe.config
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\WeaponShopV10\WeaponShopV10\bin\Debug\WeaponShopV10.exe
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\WeaponShopV10\WeaponShopV10\bin\Debug\WeaponShopV10.pdb
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\WeaponShopV10\WeaponShopV10\obj\Debug\WeaponShopV10.csprojAssemblyReference.cache
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\WeaponShopV10\WeaponShopV10\obj\Debug\WeaponShopV10.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\WeaponShopV10\WeaponShopV10\obj\Debug\WeaponShopV10.exe
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\WeaponShopV10\WeaponShopV10\obj\Debug\WeaponShopV10.pdb

@@ -13,7 +13,26 @@
         public Axe(string description) 
             : base(description, InitialAxeMinDamage, InitialAxeMaxDamage)
         {
+        }
+        #endregion
+
+        #region Methods
+        public int DamageFromAxe()
+        {
+            int damage = CalculateDamage();
+
+            MinDamage = MinDamage < 3 ? MinDamage - 3 : 0;
+            MaxDamage = MaxDamage < 3 ? MaxDamage - 3 : 0;
+
+            return damage;
+        }
+
+        public void Sharpen()
+        {
+            MinDamage = InitialAxeMinDamage;
+            MaxDamage = InitialAxeMaxDamage;
         } 
         #endregion
+
     }
 }

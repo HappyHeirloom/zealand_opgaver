@@ -74,8 +74,28 @@ namespace ListBaseCamp
             // Case 7: Add code that finds the smallest  
             // element in the list, and prints the result
             // Tip: Think in detail about how you would do this manually
-            Console.WriteLine(listOfInt.Min());
-            Console.WriteLine();
+            //Console.WriteLine(listOfInt.Min());
+            //Console.WriteLine();
+
+            int lowestValue;
+            if (listOfInt.Any())
+            {
+                lowestValue = int.MaxValue;
+                foreach (int item in listOfInt)
+                {
+                    if (item <= lowestValue)
+                    {
+                        lowestValue = item;
+                        Console.WriteLine(item);
+                        Console.WriteLine();
+                    }
+                }
+            }
+            else
+            {
+                lowestValue = 0;
+                Console.WriteLine();
+            }
 
 
 
@@ -87,6 +107,7 @@ namespace ListBaseCamp
             {
                 Console.WriteLine(listOfInt[i]);
             }
+            listOfInt.ForEach(Console.WriteLine);
 
 
             // The LAST line of code should be ABOVE this line
