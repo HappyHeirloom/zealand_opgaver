@@ -47,10 +47,10 @@ namespace RolePlayV21
             int heroWon = 0;
             int armyWon = 0;
 
-            Hero hero = new Hero(generator, log, "stupid", 200, 20, 30);
+            Hero hero = new Hero(generator, log, "stupid", 170, 20, 30);
             BeastArmy theArmy = new BeastArmy();
             Beast beast1 = new Beast(generator, log, "idiot", 100, 5, 10);
-            Beast beast2 = new Beast(generator, log, "idiot2", 20, 5, 10);
+            Beast beast2 = new Beast(generator, log, "idiot2", 30, 5, 10);
             Beast beast3 = new Beast(generator, log, "idiot3", 80, 5, 10);
             Beast beast4 = new Beast(generator, log, "idiot4", 300, 10, 10);
 
@@ -72,6 +72,7 @@ namespace RolePlayV21
                         int armyDamage = theArmy.DealDamage();
                         hero.ReceiveDamage(armyDamage);
                     }
+                    log.Reset();
                 }
 
 

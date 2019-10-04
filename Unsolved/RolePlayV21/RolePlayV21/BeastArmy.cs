@@ -28,12 +28,12 @@ namespace RolePlayV21
             {
                 foreach(Beast aBeast in _army)
                 {
-                    if (aBeast.Dead)
+                    if (!aBeast.Dead)
                     {
-                        return true;
+                        return false;
                     }
                 }
-                return false;
+                return true;
             } 
         }
 
