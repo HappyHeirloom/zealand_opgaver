@@ -25,7 +25,12 @@ namespace SimpleGeometry
         public static double FindTotalArea(List<Shape> shapes)
         {
             // This needs to be changed
-            return 0;
+            double totalAreaOfShapes = 0;
+            foreach (Shape s in shapes)
+            {
+                totalAreaOfShapes = totalAreaOfShapes + s.Area;
+            }
+            return totalAreaOfShapes;
         }
     }
 }

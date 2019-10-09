@@ -23,7 +23,7 @@ namespace LibraryV10
         public int Count
         {
             get { return _books.Count; }
-        } 
+        }
         #endregion
 
         #region Methods
@@ -33,14 +33,17 @@ namespace LibraryV10
         /// </summary>
         public void AddBook(Book aBook)
         {
-            if(aBook.ISBN != aBook.ISBN)
+            bool addbook = true;
+            foreach (var item in _books)
+            {
+                if (item.ISBN == aBook.ISBN)
+                {
+                    addbook = false;
+                }
+            }
+            if (addbook == true)
             {
                 _books.Add(aBook);
-
-            }
-            else
-            {
-                System.Console.WriteLine("Book already exists");
             }
 
         }

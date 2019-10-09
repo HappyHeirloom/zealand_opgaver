@@ -26,7 +26,7 @@
         public override double Area
         {
             // This needs to be changed
-            get { return 0; }
+            get { return (_xUpperRight - _xLowerLeft) * (_yUpperRight - _yLowerLeft); }
         }
     }
 }

@@ -1,0 +1,7 @@
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\SimpleGeometry\SimpleGeometry\bin\Debug\SimpleGeometry.exe.config
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\SimpleGeometry\SimpleGeometry\bin\Debug\SimpleGeometry.exe
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\SimpleGeometry\SimpleGeometry\bin\Debug\SimpleGeometry.pdb
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\SimpleGeometry\SimpleGeometry\obj\Debug\SimpleGeometry.csprojAssemblyReference.cache
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\SimpleGeometry\SimpleGeometry\obj\Debug\SimpleGeometry.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\SimpleGeometry\SimpleGeometry\obj\Debug\SimpleGeometry.exe
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Unsolved\SimpleGeometry\SimpleGeometry\obj\Debug\SimpleGeometry.pdb
