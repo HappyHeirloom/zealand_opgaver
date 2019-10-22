@@ -7,6 +7,9 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d">
 
+    <!--<Page.DataContext>
+        <local:Student/>
+    </Page.DataContext>-->
     <Page.Resources>
         <Style x:Key="TextBlockStyle" TargetType="TextBlock">
             <Setter Property="FontSize" Value="24"/>
@@ -22,15 +25,15 @@
     <StackPanel>
         <StackPanel Orientation="Horizontal">
             <TextBlock Style="{StaticResource TextBlockStyle}"
-                       Text="Per"/>
+                       Text="{Binding ElementName=studentName, Path=Text}"/>
             <TextBlock Style="{StaticResource TextBlockStyle}"
                        Text=" scored "/>
             <TextBlock Style="{StaticResource TextBlockStyle}"
-                       Text="50"/>
+                       Text="{Binding ElementName=score, Path=Value}"/>
             <TextBlock Style="{StaticResource TextBlockStyle}"
                        Text=" in the "/>
             <TextBlock Style="{StaticResource TextBlockStyle}"
-                       Text="Math"/>
+                       Text="{Binding ElementName=subject, Path=Text}"/>
             <TextBlock Style="{StaticResource TextBlockStyle}" 
                        Text=" test"/>
         </StackPanel>
