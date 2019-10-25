@@ -8,7 +8,15 @@
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
-    <Grid>
 
-    </Grid>
+
+
+    <StackPanel>
+        <Image HorizontalAlignment="Center" Height="720" VerticalAlignment="Center" Width="1280" Source="https://i.ytimg.com/vi/AndOW0oor3k/maxresdefault.jpg"/>
+
+
+    </StackPanel>
+
+
+
 </Page>
