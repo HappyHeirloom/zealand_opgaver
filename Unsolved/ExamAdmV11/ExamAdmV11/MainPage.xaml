@@ -19,23 +19,27 @@
         </Style>
     </Page.Resources>
 
+    <Page.DataContext>
+        <local:Student/>
+    </Page.DataContext>
+
     <StackPanel>
         <StackPanel Orientation="Horizontal">
             <TextBlock Style="{StaticResource TextBlockStyle}"
-                       Text="(Name)"/>
+                       Text="{Binding Name}"/>
             <TextBlock Style="{StaticResource TextBlockStyle}"
                        Text=" scored "/>
             <TextBlock Style="{StaticResource TextBlockStyle}"
-                       Text="(score)"/>
+                       Text="{Binding Score}"/>
             <TextBlock Style="{StaticResource TextBlockStyle}"
                        Text=" in the "/>
             <TextBlock Style="{StaticResource TextBlockStyle}"
-                       Text="(subject)"/>
+                       Text="{Binding Subject}"/>
             <TextBlock Style="{StaticResource TextBlockStyle}" 
                        Text=" test"/>
         </StackPanel>
 
-        <Line X1="0" Y1="10" X2="400" Y2="10" Stroke="Black" StrokeThickness="2" />
+        <Line X1="0" Y1="10" X2="487" Y2="10" Stroke="Black" StrokeThickness="2" />
 
         <Grid>
             <Grid.RowDefinitions>
