@@ -90,7 +90,7 @@
 
             <TextBox Grid.Row="3" Grid.Column="1" 
                      Style="{StaticResource TextBoxStyle}" 
-                     Text="Needs Binding..."/>
+                     Text="{Binding NewSubject, Mode=TwoWay}"/>
 
             <TextBlock Grid.Row="4" Grid.Column="0" 
                        Style="{StaticResource TextBlockStyle}" 
