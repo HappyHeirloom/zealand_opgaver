@@ -1,0 +1,6 @@
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Projects\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Projects\Calculator\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Projects\Calculator\Calculator\Calculator\obj\Debug\App.g.cs
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Projects\Calculator\Calculator\Calculator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Projects\Calculator\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Projects\Calculator\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
