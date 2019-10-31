@@ -13,7 +13,23 @@
 
     <StackPanel>
         <ListView ItemsSource="{Binding Students}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <StackPanel Margin="10,10,10,10">
+                            <TextBlock Text="{Binding Name}" HorizontalAlignment="Center"/>
+                        </StackPanel>
+                        <StackPanel Margin="10,10,10,10">
+                            <TextBlock FontSize="24" Text="{Binding Country}"/>
+                            <TextBlock FontSize="24" Text="{Binding YearOfBirth}"/>
+                        </StackPanel>
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
         </ListView>
     </StackPanel>
-    
+
+
+
+
 </Page>

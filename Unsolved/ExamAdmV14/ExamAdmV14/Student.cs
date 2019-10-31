@@ -40,5 +40,13 @@
             get { return _imageSource; }
         }
         #endregion
+
+
+        public override string ToString()
+        {
+            return $"Name {_name}";
+
+        }
+
     }
 }

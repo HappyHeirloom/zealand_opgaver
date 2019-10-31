@@ -1,0 +1,6 @@
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Serpinske\Serpinski\Serpinski\obj\Debug\Serpinski.csprojAssemblyReference.cache
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Serpinske\Serpinski\Serpinski\bin\Debug\Serpinski.exe.config
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Serpinske\Serpinski\Serpinski\bin\Debug\Serpinski.exe
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Serpinske\Serpinski\Serpinski\bin\Debug\Serpinski.pdb
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Serpinske\Serpinski\Serpinski\obj\Debug\Serpinski.exe
+C:\Users\Jonas\Documents\GitHub\zealand_opgaver\Serpinske\Serpinski\Serpinski\obj\Debug\Serpinski.pdb
